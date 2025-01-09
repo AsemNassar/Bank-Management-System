@@ -41,7 +41,7 @@ A robust **Java-based Bank Management System** designed to simplify bank operati
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/YourUsername/Bank-Management-System.git  
+   git clone https://github.com/AsemNassar/Bank-Management-System.git  
    ```  
 
 2. **Navigate to the Project Directory:**  
